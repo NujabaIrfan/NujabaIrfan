@@ -1,61 +1,62 @@
-# 👋 Hello, I'm Nujaba Irfan
+# 🎉 Hey There! I'm Nujaba Irfan 
 
-### Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast
+### 🚀 **Aspiring Software Engineer** | **Full-Stack Wizard** | **Bug Creator & Fixer** 
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" alt="Twitter">
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email">
+  </a>
+  <a href="https://github.com/nujabairfan">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 **My Tech Toolbox** 
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Frontend Fun** 🎨
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### **Backend Magic** ⚡
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Mobile & Others
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### **Database & More** 🗃️
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## **🔥 GitHub Stats** 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nujabairfan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nujabairfan&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nujabairfan&theme=radical"/>
+  
+  ![Nujaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabairfan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabairfan&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nujabairfan&theme=radical&hide_border=true)
+  
 </div>
 
 ---
 
-## 🎯 Currently Learning
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## **💡 Currently Playing With** 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
----
-
-⭐ From [nujabairfan](https://github.com/nujabairfan)
