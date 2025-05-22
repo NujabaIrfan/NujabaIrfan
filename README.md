@@ -1,52 +1,18 @@
-# 💎 Nujaba Irfan 
+<h1 align="center">Hi 👋, I'm Nujaba Irfan</h1>
+<h3 align="center">A Aspiring Software Engineer</h3>
 
-### � **Software Engineer** | **Full-Stack Developer** | **Elegant Solutions, Timeless Code**
+- 📫 How to reach me **nujaba30@gmail.com**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/nujabairfan">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub">
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email">
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nujaba irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nujaba irfan" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🏛 **Technical Expertise** 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nujabairfan&show_icons=true&locale=en&layout=compact" alt="nujabairfan" /></p>
 
-### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-0A0A0A?style=flat-square&logo=react&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nujabairfan&show_icons=true&locale=en" alt="nujabairfan" /></p>
 
-### **Backend Systems**  
-![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
-
-### **Data & Infrastructure**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## **📜 GitHub Heritage** 
-
-<div align="center">
-  
-  ![Nujaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabairfan&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabairfan&layout=compact&theme=merko&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF)
-  
-</div>
-
----
-
-## **🔮 Current Pursuits** 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0A0A0A?style=flat-square&logo=kotlin&logoColor=white)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nujabairfan&" alt="nujabairfan" /></p>
