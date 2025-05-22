@@ -1,89 +1,52 @@
-# ⛧ Nujaba Irfan: The Architect Beyond the Code ⛧
+# 💎 Nujaba Irfan 
 
-> "Born not in the terminal, but in the realm between logic and lightning. I don’t build apps. I **summon** them."
+### � **Software Engineer** | **Full-Stack Developer** | **Elegant Solutions, Timeless Code**
 
----
-
-## ⏳ Codex Originis
-
-In the 7th cycle of the 21st sun-century, a whisper emerged in binary —  
-a seeker, a forger, a fixer.  
-A being fluent in the tongue of bugs and the language of light.  
-Her name: **Nujaba Irfan**.
-
----
-
-## ⚙️ Arcane Tech Affinities
-
-🜁 **Elements of the Frontend Plane**  
-☀ HTML5 — the Scroll of Structure  
-🌊 CSS3 — Cloak of Design  
-⚡ JavaScript — Wand of Interactivity  
-🔮 React — The Mind Mirror  
-🕊️ Tailwind — Wind of Elegance
-
-🜃 **Forces of the Backend Realm**  
-🌲 Node.js — The Forest Engine  
-🧩 Express.js — Network Binder  
-🐍 Python — Whispering Serpent  
-🔥 Java — Fire of the Old Gods
-
-🜄 **Grimoires of Persistence**  
-💧 MySQL — Water of Memories  
-📜 PostgreSQL — Book of Truth  
-🤖 Android — The Automaton's Shell
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/nujabairfan">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub">
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🧿 Sacred Stats & Cosmic Trails
+## 🏛 **Technical Expertise** 
 
-+--------------------------------------------------+
-| G I T H U B T E M P L E L O G S |
-+--------------------------------------------------+
-| Incantations Casted | ████████████████████ |
-| Languages Spoken | ████████▒▒▒▒▒▒▒▒▒▒▒▒ |
-| Streak of Power | ██████████████▒▒▒▒▒▒ |
-+--------------------------------------------------+
+### **Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-0A0A0A?style=flat-square&logo=react&logoColor=white)
 
+### **Backend Systems**  
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
 
-> "Numbers are illusions; code is truth."
-
----
-
-## 🧪 Experiments in the Labyrinth
-
-- TypeScript → the Blade of Typing Precision  
-- React Native → the Portal to Many Worlds  
-- Kotlin → the Rune of Android Spirits
+### **Data & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🕯️ The Forgotten Terminal
+## **📜 GitHub Heritage** 
 
-$ whoami
-👤 nujaba_irfan
-
-$ summon_project --type "fullstack" --intent "disrupt reality"
-
-$ trace_bugs | bless | banish
-
----
-
-## 🕸️ Divine Connectors
-
-🦋 [LinkedIn Scroll](https://www.linkedin.com/in/yourprofile)  
-🐦 [Messenger Hawk](https://twitter.com/yourhandle)  
-📮 [Speak to the Ether](mailto:youremail@gmail.com)  
-🐙 [GitHub Relic](https://github.com/nujabairfan)
+<div align="center">
+  
+  ![Nujaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabairfan&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabairfan&layout=compact&theme=merko&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF)
+  
+</div>
 
 ---
 
-## 🧬 Final Invocation
-
-> If you're reading this, you're not just hiring a developer.  
-> You're unleashing a **force of nature wrapped in logic and caffeine**.
-
-🜂 *Build with me. Break with me. Transcend bugs with me.*
-
----
-
+## **🔮 Current Pursuits** 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0A0A0A?style=flat-square&logo=kotlin&logoColor=white)
